@@ -2,6 +2,8 @@
 
 Nov 7, 2026 · @William Clayton Collier
 
+> **Master copy.** The authoritative version of this spec is [`SPEC.md`](https://github.com/ORBAerospace/starlink-vendor-handoff-API/blob/main/SPEC.md) in the `ORBAerospace/starlink-vendor-handoff-API` repository. If your copy differs, refer to this as the authority, and document any further changes here.
+
 ## How to use this document
 
 This spec is the single contract between two teams who will build separately and connect at go-live. If both sides implement exactly what is written here, the integration works the first time they are pointed at each other.
